@@ -1,1 +1,3 @@
+![CoverGlitch](https://user-images.githubusercontent.com/83043304/127680552-f95e0284-7825-4f37-9c63-d2e32b8c19e3.gif)
+
 ![portada](https://user-images.githubusercontent.com/83043304/127672882-2db7f5c2-5de3-411f-a21c-e1b2b16a72b5.png)
