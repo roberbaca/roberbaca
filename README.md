@@ -1,1 +1,1 @@
-![portada](https://user-images.githubusercontent.com/83043304/127671641-728c4272-2d1b-4126-b430-1cbc40e2ac3b.png)
+![portada](https://user-images.githubusercontent.com/83043304/127672882-2db7f5c2-5de3-411f-a21c-e1b2b16a72b5.png)
