@@ -5,6 +5,9 @@
 ![portada](https://user-images.githubusercontent.com/83043304/127672882-2db7f5c2-5de3-411f-a21c-e1b2b16a72b5.png)
 
 
+![logo - copia-modified](https://user-images.githubusercontent.com/83043304/140675382-64678624-606e-41b2-a606-a3ed057bdfc5.png)
+
+
 ## ✉️ Find me on:
 
 <p align="center">
