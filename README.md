@@ -50,6 +50,6 @@
 
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=roberbaca.roberbaca)
  
-  ![Github](https://img.shields.io/github/followers/roberbaca?label=Follow&style=social)]
+  ![Github](https://img.shields.io/github/followers/roberbaca?label=Follow&style=social)
  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberbaca&theme=tokyonight)   
