@@ -11,9 +11,9 @@
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://github.com/roberbaca" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/roberto-baca" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:roberto.nicolas.baca@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://github.com/roberbaca" target="_blank" rel="noopener noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/erp-software-icon-set-1/512/open_website-256.png" alt="myWebsite" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/roberto-baca" target="_blank" rel="noopener noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:roberto.nicolas.baca@gmail.com"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png" alt="mail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
   
 ## 🧰 Languages and Tools:
@@ -37,7 +37,10 @@
 
 <p align="center">
   
- <img src="https://github-readme-stats.vercel.app/api?username=roberbaca&show_icons=true&theme=dark"/>/>
+</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=roberbaca&show_icons=true&theme=dark"/>
+<p align="center">
+ 
   
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=roberbaca.roberbaca)
