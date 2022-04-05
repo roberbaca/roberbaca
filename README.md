@@ -18,15 +18,12 @@
   
 ## 🧰 Languages and Tools:
 <p align="center">
-    <img src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/128/Unity_3D.png" alt="Unity" height="80" style="vertical-align:top; margin:64px">
   
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="80" style="vertical-align:top; margin:64px">
-    
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="80" style="vertical-align:top; margin:64px">
+   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="HTML" height="80" style="vertical-align:top; margin:64px">
   
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS" height="80" style="vertical-align:top; margin:64px">
   
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="HTML" height="80" style="vertical-align:top; margin:64px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="80" style="vertical-align:top; margin:64px">
   
   <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="javascript" height="80" style="vertical-align:top; margin:64px">
   
@@ -36,10 +33,14 @@
   
    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="node" height="80" style="vertical-align:top; margin:64px">
   
-  <img src="https://www.iconfinder.com/search?q=mongodb&price=free" alt="mongodb" height="80" style="vertical-align:top; margin:64px">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="mongodb" height="80" style="vertical-align:top; margin:64px">
   
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postman-256.png" alt="postman" height="80" style="vertical-align:top; margin:64px">
 </p>
+
+<img src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/128/Unity_3D.png" alt="Unity" height="80" style="vertical-align:top; margin:64px">
+  
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="80" style="vertical-align:top; margin:64px">
 
 <p align="center">
   
