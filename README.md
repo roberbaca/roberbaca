@@ -37,7 +37,7 @@
 
 <p align="center">
   
- <img src="https://github-readme-stats.vercel.app/api?username=roberbaca&show_icons=true"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=roberbaca&show_icons=true&theme=dark"/>/>
   
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=roberbaca.roberbaca)
