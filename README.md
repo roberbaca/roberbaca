@@ -47,14 +47,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=roberbaca&show_icons=true&theme=dark"/>
 </p>
   
-<p align="center">
-  ![Github](https://visitor-badge.laobi.icu/badge?page_id=roberbaca.roberbaca)
-</p>  
 
-<p align="center">
-  ![Github](https://img.shields.io/github/followers/roberbaca?label=Follow&style=social)](https://github.com/roberbaca)
- </p>
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=roberbaca.roberbaca)
  
-<p align="center">
+  ![Github](https://img.shields.io/github/followers/roberbaca?label=Follow&style=social)](https://github.com/roberbaca)
+ 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberbaca&theme=tokyonight)   
-</p>
