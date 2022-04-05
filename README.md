@@ -36,12 +36,12 @@
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="mongodb" height="80" style="vertical-align:top; margin:64px">
   
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postman-256.png" alt="postman" height="80" style="vertical-align:top; margin:64px">
-</p>
 
 <img src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/128/Unity_3D.png" alt="Unity" height="80" style="vertical-align:top; margin:64px">
   
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="80" style="vertical-align:top; margin:64px">
-
+</p>
+  
 <p align="center">
   
 </p>
