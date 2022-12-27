@@ -2,7 +2,7 @@
   <img width="100%" src="https://user-images.githubusercontent.com/83043304/127681901-1139d0ba-927d-46d2-a36d-76a2fab9a572.gif">
 </p>
 
-![portada](![imagen](https://user-images.githubusercontent.com/83043304/209669543-e5d9f697-80e3-4d20-a8f4-f8f555cf523e.png))
+![portada][imagen](https://user-images.githubusercontent.com/83043304/209669543-e5d9f697-80e3-4d20-a8f4-f8f555cf523e.png)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/83043304/140675382-64678624-606e-41b2-a606-a3ed057bdfc5.png" alt="myLogo" height="200" style="vertical-align:top; margin:4px">
