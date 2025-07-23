@@ -11,8 +11,8 @@
 
 - 🌍 Based in Argentina  
 - ✉️ Contact: [ing.baca@gmail.com](mailto:ing.baca@gmail.com)  
-- 🔗 Personal website: [https://tusitioweb.com](https://robertobaca-90035.web.app/)  
-- 🎮 Game portfolio on Itch.io: [https://rexxar.itch.io](https://rnb-games.itch.io/)  
+- 🔗 Personal website: [personal website](https://robertobaca-90035.web.app/)  
+- 🎮 Game portfolio on Itch.io: [itch.io](https://rnb-games.itch.io/)  
 - 📘 Résumé / CV: [https://roberbaca.github.io/cv](https://roberbaca.github.io/cv)
 
 ---
