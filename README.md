@@ -56,8 +56,11 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robertonicolasbaca)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@roberbaca)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NpWaXsfTgw)
+[![YouTube – Gaming](https://img.shields.io/badge/YouTube%20Gaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@robertonicolasbaca5311)  
+[![YouTube – Professional](https://img.shields.io/badge/YouTube%20Pro-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@roberbaca)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/578043026484494347)
+
+
 
 ---
 
