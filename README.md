@@ -59,6 +59,8 @@
 [![YouTube – Gaming](https://img.shields.io/badge/YouTube%20Gaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RNB-Games-Studio)  
 [![YouTube – Professional](https://img.shields.io/badge/YouTube%20Pro-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@roberbaca)  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/578043026484494347)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/roberbaca)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/robertonicolsbaca)
 
 
 
@@ -82,8 +84,4 @@
 
 ![GitHub](https://img.shields.io/github/followers/roberbaca?label=Follow&style=social)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberbaca&theme=tokyonight)
-
 ---
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/roberbaca)
