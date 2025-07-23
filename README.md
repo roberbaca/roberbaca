@@ -10,10 +10,10 @@
 ---
 
 - 🌍 Based in Argentina  
-- ✉️ Contact: [ing.baca@gmail.com](mailto:ing.baca@gmail.com)  
-- 🔗 Personal website: [personal website](https://robertobaca-90035.web.app/)  
-- 🎮 Game portfolio on Itch.io: [itch.io](https://rnb-games.itch.io/)  
-- 📘 Résumé / CV: [https://roberbaca.github.io/cv](https://roberbaca.github.io/cv)
+- ✉️ Contact: <a href="mailto:ing.baca@gmail.com" target="_blank">ing.baca@gmail.com</a>  
+- 🔗 Personal website: <a href="https://robertobaca-90035.web.app/" target="_blank">personal website</a>  
+- 🎮 Game portfolio on Itch.io: <a href="https://rnb-games.itch.io/" target="_blank">itch.io</a>  
+- 📘 Résumé / CV: <a href="https://roberbaca.github.io/cv" target="_blank">https://roberbaca.github.io/cv</a>
 
 ---
 
