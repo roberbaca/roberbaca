@@ -66,8 +66,16 @@
 
 ## 📊 GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=roberbaca&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Roberto's GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.demolab.com/?user=roberbaca&theme=transparent&hide_border=true" alt="Roberto's GitHub streak" /> |
-| ------------- | ------------- |
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=roberbaca&show_icons=true&theme=transparent&hide_border=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberbaca&layout=compact&theme=transparent&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=roberbaca.roberbaca)
