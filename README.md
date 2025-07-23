@@ -1,55 +1,77 @@
-<p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/83043304/127681901-1139d0ba-927d-46d2-a36d-76a2fab9a572.gif">
-</p>
+# Hi there! 👋 I'm Roberto Baca
 
-![imagen](https://user-images.githubusercontent.com/83043304/209669642-a36c0983-e7a2-4387-8b0b-55b08ba3a3db.png)
+## 💡 About Me
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/83043304/140675382-64678624-606e-41b2-a606-a3ed057bdfc5.png" alt="myLogo" height="200" style="vertical-align:top; margin:4px">
-</p>
+👨‍🎓 I'm an **Industrial Engineer** turned **passionate programmer**.  
+💻 I completed a **Full Stack Web Development Bootcamp** and earned a degree as a **Technician in Game Design and Programming**.  
+📊 Currently, I’m studying **Data Science** with **Python** and **R**.  
+💡 I enjoy building interactive projects, exploring new technologies, and finding creative solutions.
 
-## ✉️ Find me on:
+---
 
-<p align="center">
- <a href="https://robertobaca-90035.web.app/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/erp-software-icon-set-1/512/open_website-256.png" alt="myWebsite" height="80" style="vertical-align:top; margin:5000px"> </a>
- <a href="https://www.linkedin.com/in/roberto-baca" target="_blank" rel="noopener noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="linkedin" height="80" style="vertical-align:top; margin:5000px"></a>
- <a href="mailto:roberto.nicolas.baca@gmail.com"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png" alt="mail" height="80" style="vertical-align:top; margin:500px"></a>
-</p>
-  
-## 🧰 Languages and Tools:
-<p align="center">
-  
-   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="HTML" height="80" style="vertical-align:top; margin:64px">
-  
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS" height="80" style="vertical-align:top; margin:64px">
-  
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="80" style="vertical-align:top; margin:64px">
-  
-  <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="javascript" height="80" style="vertical-align:top; margin:64px">
-  
-  <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" alt="react" height="80" style="vertical-align:top; margin:64px">
-  
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-256.png" alt="redux" height="80" style="vertical-align:top; margin:64px">
-  
-   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="node" height="80" style="vertical-align:top; margin:64px">
-  
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="mongodb" height="80" style="vertical-align:top; margin:64px">
-  
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postman-256.png" alt="postman" height="80" style="vertical-align:top; margin:64px">
+- 🌍 Based in Argentina  
+- ✉️ Contact: [ing.baca@gmail.com](mailto:ing.baca@gmail.com)  
+- 🔗 Personal website: [https://tusitioweb.com](https://robertobaca-90035.web.app/)  
+- 🎮 Game portfolio on Itch.io: [https://rexxar.itch.io](https://rnb-games.itch.io/)  
+- 📘 Résumé / CV: [https://roberbaca.github.io/cv](https://roberbaca.github.io/cv)
 
-<img src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/128/Unity_3D.png" alt="Unity" height="80" style="vertical-align:top; margin:64px">
-  
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="80" style="vertical-align:top; margin:64px">
-  
-</p>
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roberbaca&show_icons=true&theme=dark"/>
-</p>
-  
+---
 
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=roberbaca.roberbaca)
- 
-  ![Github](https://img.shields.io/github/followers/roberbaca?label=Follow&style=social)
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberbaca&theme=tokyonight)   
+## 🕒 Timeline
+
+- 🎓 **2003 – 2008**: Industrial Engineering Degree  
+- 🚀 **2021**: Completed Full Stack Web Dev Bootcamp  
+- 🎮 **2023**: Earned Technician Degree in Game Design & Programming  
+- 📊 **2025 – Present**: Studying Data Science with Python and R  
+
+---
+
+## 💻 Tech Stack
+
+### 🎮 Game Development
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-3584E4?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📊 Data Science
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robertobaca)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@roberbaca)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NpWaXsfTgw)
+
+---
+
+## 📊 GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=roberbaca&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Roberto's GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roberbaca&theme=transparent&hide_border=true" alt="Roberto's GitHub streak" /> |
+| ------------- | ------------- |
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=roberbaca.roberbaca)
+
+![GitHub](https://img.shields.io/github/followers/roberbaca?label=Follow&style=social)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberbaca&theme=tokyonight)
+
+---
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/roberbaca)
